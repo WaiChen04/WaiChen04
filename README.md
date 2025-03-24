@@ -6,10 +6,10 @@ Rubik's Cube.
 - I am currently making **web applications** and whatever projects interest me
 
 ## 🔭 What I’m Currently Working On  
-🚀 **Personal Portfolio Website**  
 📊 **Sentiment Analysis on NFL Teams (2023-2024 Season)** → Analyzing fan sentiment using **Python, NLP (NLTK, VADER), and data visualization tools**.  
 
-## 🚀 Projects  
+## 🚀 Projects
+🔹 **[Personal Portfolio Website](https://wai-leuk-chen.fly.dev/)** 
 🔹 **[Stock ROI Calculator](https://stock-maximum-roi-calculator.fly.dev/)** 
 🔹 **[Note-Taking Web App](https://part3demo-late-morning-9253.fly.dev/)**
 🔹 **[Ising Model Quantum Computer Simulations](https://github.com/WaiChen04/Code-Snippet/tree/main/Python)**
