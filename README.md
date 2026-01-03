@@ -8,6 +8,7 @@ Rubik's Cube.
 
 
 ##  Projects
+🔹 **[Electric Field Visualizer](https://electric-field-visualizer.fly.dev/)** 
 🔹 **[Personal Portfolio Website](https://wai-leuk-chen.fly.dev/)** 
 🔹 **[Stock ROI Calculator](https://stock-maximum-roi-calculator.fly.dev/)**
 🔹 **[NFL Fan Sentiment Tracker](https://github.com/WaiChen04/NFLFanSentimentTracker)**
